@@ -1,5 +1,5 @@
 # Windows11 RDP
-Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
+Free Windows 11 RDP (1HOUR) 
 
 <img src="https://i.imgur.com/1QZfKzC.png" width="500" />
 
@@ -11,7 +11,7 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 ### And paste the following commands:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1338/W11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/ktechy-official/Windows-11-RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
@@ -25,12 +25,6 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 - Then after the build it will give you the credentials of rdp.
 - You can now login using **User** and **Password**.
 
-## CREDITS:
-Original author: Thuonghai001
-
-Youtube channel: https://www.youtube.com/channel/UCi80Ipndm3QovIn5XisUz3g
-
-Github repo: https://github.com/kmille36/Linux-to-Windows-with-QEMU
 
 ## DISCLAIMER:
  - Do not overuse this method.
